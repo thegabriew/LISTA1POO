@@ -3,7 +3,7 @@ public class quatro {
 
         int a = 18;
 
-            if(a%a==0&&a%1==0&&a%a==1){
+            if(a%a==0&&a%1==0){
 
                 System.out.println("Este número é primo");
 
